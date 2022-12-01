@@ -1,0 +1,15 @@
+current directory: /home/moreenisaac/Development/phase4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/moreenisaac/.rbenv/versions/2.7.6/bin/ruby -I /home/moreenisaac/.rbenv/versions/2.7.6/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/moreenisaac/Development/phase4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221201-1083-17px628 sitelibdir\=./.gem.20221201-1083-17px628 clean
+
+current directory: /home/moreenisaac/Development/phase4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221201-1083-17px628 sitelibdir\=./.gem.20221201-1083-17px628
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/moreenisaac/Development/phase4/phase-4-rails-and-active-record-readme/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20221201-1083-17px628 sitelibdir\=./.gem.20221201-1083-17px628 install
+/bin/install -c -m 0755 websocket_mask.so ./.gem.20221201-1083-17px628
